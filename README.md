@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Crazychicken442
+- 👀 I’m interested in Machine Learning and UI/UX
+- 🌱 I’m currently learning Programming Abstractions in Python, HTML, CSS, and JavaScript
+- 💞️ I’m looking to collaborate on projects involving web development, creating machine learning algorithms, or any other kind of project!
+- 📫 Reach me @ ajaybhatiawork2020@gmail.com 
